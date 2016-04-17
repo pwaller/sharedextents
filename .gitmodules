@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/frostschutz/go-fibmap"]
+	path = vendor/github.com/frostschutz/go-fibmap
+	url = https://github.com/frostschutz/go-fibmap
